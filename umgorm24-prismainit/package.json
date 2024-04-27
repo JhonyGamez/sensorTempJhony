@@ -1,0 +1,21 @@
+{
+  "name": "umgorm24",
+  "version": "1.0.0",
+  "description": "glpat-trJsgwybo3mCxpHBZi3u",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.1",
+    "nodemon": "^3.1.0",
+    "prisma": "^5.10.2"
+  },
+  "devDependencies": {
+    "@prisma/client": "^5.10.2"
+  }
+}
